@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Fatal Push"/>
+        <card number="1" price="0" name="Swamp"/>
+        <card number="1" price="0" name="Ramunap Excavator"/>
+        <card number="1" price="0" name="Baleful Strix"/>
+        <card number="1" price="0" name="Wooded Foothills"/>
+        <card number="1" price="0" name="Wasteland"/>
+        <card number="1" price="0" name="Green Sun's Zenith"/>
+        <card number="1" price="0" name="Thoughtseize"/>
+        <card number="1" price="0" name="Mox Diamond"/>
+        <card number="1" price="0" name="Inquisition of Kozilek"/>
+        <card number="1" price="0" name="Nissa, Vital Force"/>
+        <card number="1" price="0" name="Bojuka Bog"/>
+        <card number="1" price="0" name="Upheaval"/>
+        <card number="1" price="0" name="Titania, Protector of Argoth"/>
+        <card number="1" price="0" name="Verdant Catacombs"/>
+        <card number="1" price="0" name="Expedition Map"/>
+        <card number="1" price="0" name="Bazaar of Baghdad"/>
+        <card number="1" price="0" name="Urborg, Tomb of Yawgmoth"/>
+        <card number="1" price="0" name="Custodi Lich"/>
+        <card number="1" price="0" name="Breeding Pool"/>
+        <card number="1" price="0" name="Demonic Tutor"/>
+        <card number="1" price="0" name="Marsh Flats"/>
+        <card number="1" price="0" name="Temple of Deceit"/>
+        <card number="1" price="0" name="Temple of Malady"/>
+        <card number="1" price="0" name="Temple of Mystery"/>
+        <card number="1" price="0" name="Volrath's Stronghold"/>
+        <card number="1" price="0" name="Jace, Vryn's Prodigy"/>
+        <card number="1" price="0" name="Night's Whisper"/>
+        <card number="1" price="0" name="Watery Grave"/>
+        <card number="1" price="0" name="Academy Ruins"/>
+        <card number="1" price="0" name="Abrupt Decay"/>
+        <card number="1" price="0" name="Flooded Strand"/>
+        <card number="1" price="0" name="Maze of Ith"/>
+        <card number="1" price="0" name="Oracle of Mul Daya"/>
+        <card number="1" price="0" name="Overgrown Tomb"/>
+        <card number="1" price="0" name="Exploration"/>
+        <card number="1" price="0" name="Retreat to Kazandu"/>
+        <card number="1" price="0" name="Retreat to Hagra"/>
+        <card number="1" price="0" name="Crucible of Worlds"/>
+        <card number="1" price="0" name="Scalding Tarn"/>
+        <card number="1" price="0" name="Primeval Titan"/>
+        <card number="1" price="0" name="Duress"/>
+        <card number="1" price="0" name="Island"/>
+        <card number="1" price="0" name="Fastbond"/>
+        <card number="1" price="0" name="Windswept Heath"/>
+        <card number="1" price="0" name="Crop Rotation"/>
+        <card number="1" price="0" name="Eternal Witness"/>
+        <card number="1" price="0" name="Bloodstained Mire"/>
+        <card number="1" price="0" name="Sylvan Scrying"/>
+        <card number="1" price="0" name="Tireless Tracker"/>
+        <card number="1" price="0" name="Polluted Delta"/>
+        <card number="1" price="0" name="Imperial Seal"/>
+        <card number="1" price="0" name="Dark Petition"/>
+        <card number="1" price="0" name="Zuran Orb"/>
+        <card number="1" price="0" name="Dark Depths"/>
+        <card number="1" price="0" name="Cephalid Coliseum"/>
+        <card number="1" price="0" name="Dark Confidant"/>
+        <card number="1" price="0" name="Notion Thief"/>
+        <card number="1" price="0" name="Worldly Tutor"/>
+        <card number="1" price="0" name="Life from the Loam"/>
+        <card number="1" price="0" name="Intuition"/>
+        <card number="1" price="0" name="Jace, the Mind Sculptor"/>
+        <card number="1" price="0" name="Regrowth"/>
+        <card number="1" price="0" name="Wall of Blossoms"/>
+        <card number="1" price="0" name="Personal Tutor"/>
+        <card number="1" price="0" name="Entomb"/>
+        <card number="1" price="0" name="Courser of Kruphix"/>
+        <card number="1" price="0" name="The Gitrog Monster"/>
+        <card number="1" price="0" name="Bayou"/>
+        <card number="1" price="0" name="Forest"/>
+        <card number="1" price="0" name="City of Traitors"/>
+        <card number="1" price="0" name="Karakas"/>
+        <card number="1" price="0" name="Coiling Oracle"/>
+        <card number="1" price="0" name="Leovold, Emissary of Trest"/>
+        <card number="1" price="0" name="Misty Rainforest"/>
+        <card number="1" price="0" name="Ghost Quarter"/>
+        <card number="1" price="0" name="Azusa, Lost but Seeking"/>
+        <card number="1" price="0" name="Tropical Island"/>
+        <card number="1" price="0" name="Thespian's Stage"/>
+        <card number="1" price="0" name="Rishadan Port"/>
+        <card number="1" price="0" name="Underground Sea"/>
+        <card number="1" price="0" name="Barren Moor"/>
+        <card number="1" price="0" name="Tranquil Thicket"/>
+        <card number="1" price="0" name="Toxic Deluge"/>
+        <card number="1" price="0" name="Collective Brutality"/>
+        <card number="1" price="0" name="Maelstrom Pulse"/>
+        <card number="1" price="0" name="Lotus Cobra"/>
+        <card number="1" price="0" name="Realms Uncharted"/>
+        <card number="1" price="0" name="Tarmogoyf"/>
+        <card number="1" price="0" name="Grim Flayer"/>
+        <card number="1" price="0" name="Traverse the Ulvenwald"/>
+        <card number="1" price="0" name="Crystal Vein"/>
+        <card number="1" price="0" name="Sylvan Library"/>
+        <card number="1" price="0" name="Liliana of the Veil"/>
+        <card number="1" price="0" name="Blighted Fen"/>
+        <card number="1" price="0" name="Ponder"/>
+        <card number="1" price="0" name="Preordain"/>
+        <card number="1" price="0" name="Gitaxian Probe"/>
+        <card number="1" price="0" name="Brainstorm"/>
+        <card number="1" price="0" name="Dryad Arbor"/>
+    </zone>
+    <zone name="side">
+        <card number="1" price="0" name="Elvish Visionary"/>
+        <card number="1" price="0" name="Snapcaster Mage"/>
+        <card number="1" price="0" name="Lake of the Dead"/>
+        <card number="1" price="0" name="Damnation"/>
+        <card number="1" price="0" name="Painful Truths"/>
+        <card number="1" price="0" name="Raven's Crime"/>
+        <card number="1" price="0" name="Liliana, the Last Hope"/>
+        <card number="1" price="0" name="Glacial Chasm"/>
+        <card number="1" price="0" name="Jaddi Offshoot"/>
+        <card number="1" price="0" name="Lumbering Falls"/>
+        <card number="1" price="0" name="Creeping Tar Pit"/>
+        <card number="1" price="0" name="Hissing Quagmire"/>
+        <card number="1" price="0" name="Grapple with the Past"/>
+        <card number="1" price="0" name="Reanimate"/>
+        <card number="1" price="0" name="Unearth"/>
+        <card number="1" price="0" name="Recurring Nightmare"/>
+        <card number="1" price="0" name="Animate Dead"/>
+        <card number="1" price="0" name="Time Spiral"/>
+        <card number="1" price="0" name="Future Sight"/>
+        <card number="1" price="0" name="Timetwister"/>
+        <card number="1" price="0" name="Commit"/>
+        <card number="1" price="0" name="Memory Jar"/>
+        <card number="1" price="0" name="Primal Command"/>
+        <card number="1" price="0" name="Burgeoning"/>
+        <card number="1" price="0" name="Sakura-Tribe Scout"/>
+        <card number="1" price="0" name="Phyrexian Arena"/>
+        <card number="1" price="0" name="Necropotence"/>
+        <card number="1" price="0" name="Yawgmoth's Will"/>
+        <card number="1" price="0" name="Eldritch Evolution"/>
+        <card number="1" price="0" name="Treetop Village"/>
+        <card number="1" price="0" name="Trade Routes"/>
+        <card number="1" price="0" name="Yawgmoth's Bargain"/>
+        <card number="1" price="0" name="Ob Nixilis, the Fallen"/>
+        <card number="1" price="0" name="Treasure Cruise"/>
+        <card number="1" price="0" name="Dig Through Time"/>
+    </zone>
+</cockatrice_deck>

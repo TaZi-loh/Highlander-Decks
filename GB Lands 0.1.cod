@@ -3,84 +3,52 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="main">
-        <card number="1" name="Abrupt Decay"/>
         <card number="1" name="Ancient Tomb"/>
-        <card number="1" name="Ash Barrens"/>
         <card number="1" name="Azusa, Lost but Seeking"/>
         <card number="1" name="Barren Moor"/>
         <card number="1" name="Bayou"/>
-        <card number="1" name="Blighted Fen"/>
         <card number="1" name="Bloodstained Mire"/>
         <card number="1" name="Bojuka Bog"/>
-        <card number="1" name="Cabal Pit"/>
         <card number="1" name="Cavern of Souls"/>
-        <card number="1" name="City of Traitors"/>
         <card number="1" name="Courser of Kruphix"/>
         <card number="1" name="Crop Rotation"/>
         <card number="1" name="Crucible of Worlds"/>
-        <card number="1" name="Crystal Vein"/>
-        <card number="1" name="Dakmor Salvage"/>
-        <card number="1" name="Damnation"/>
         <card number="1" name="Dark Depths"/>
-        <card number="1" name="Dark Petition"/>
         <card number="1" name="Deathrite Shaman"/>
         <card number="1" name="Demonic Tutor"/>
-        <card number="1" name="Duress"/>
         <card number="1" name="Dust Bowl"/>
-        <card number="1" name="Edge of Autumn"/>
-        <card number="1" name="Emrakul, the Promised End"/>
         <card number="1" name="Eternal Witness"/>
-        <card number="1" name="Expedition Map"/>
         <card number="1" name="Exploration"/>
         <card number="1" name="Explore"/>
-        <card number="3" name="Forest"/>
+        <card number="1" name="Forest"/>
         <card number="1" name="Glacial Chasm"/>
-        <card number="1" name="Go for the Throat"/>
         <card number="1" name="Golgari Rot Farm"/>
         <card number="1" name="Green Sun's Zenith"/>
-        <card number="1" name="Grim Tutor"/>
-        <card number="1" name="Hissing Quagmire"/>
-        <card number="1" name="Homeward Path"/>
-        <card number="1" name="Hymn to Tourach"/>
         <card number="1" name="Imperial Seal"/>
-        <card number="1" name="Inquisition of Kozilek"/>
         <card number="1" name="Life from the Loam"/>
-        <card number="1" name="Liliana of the Veil"/>
         <card number="1" name="Lotus Cobra"/>
-        <card number="1" name="Maelstrom Pulse"/>
         <card number="1" name="Marsh Flats"/>
         <card number="1" name="Misty Rainforest"/>
         <card number="1" name="Mox Diamond"/>
-        <card number="1" name="Myriad Landscape"/>
         <card number="1" name="Oracle of Mul Daya"/>
         <card number="1" name="Overgrown Tomb"/>
-        <card number="1" name="Pernicious Deed"/>
-        <card number="1" name="Petrified Field"/>
-        <card number="1" name="Phyrexian Arena"/>
         <card number="1" name="Polluted Delta"/>
         <card number="1" name="Primeval Titan"/>
         <card number="1" name="Raven's Crime"/>
         <card number="1" name="Realms Uncharted"/>
-        <card number="1" name="Regrowth"/>
-        <card number="1" name="Restore"/>
-        <card number="3" name="Snow-Covered Forest"/>
+        <card number="1" name="Snow-Covered Forest"/>
         <card number="1" name="Snow-Covered Swamp"/>
-        <card number="2" name="Swamp"/>
+        <card number="1" name="Swamp"/>
         <card number="1" name="Sylvan Library"/>
         <card number="1" name="Sylvan Scrying"/>
         <card number="1" name="The Gitrog Monster"/>
         <card number="1" name="Thespian's Stage"/>
-        <card number="1" name="Thoughtseize"/>
         <card number="1" name="Tireless Tracker"/>
         <card number="1" name="Titania, Protector of Argoth"/>
-        <card number="1" name="Toxic Deluge"/>
         <card number="1" name="Tranquil Thicket"/>
         <card number="1" name="Traverse the Ulvenwald"/>
-        <card number="1" name="Twilight Mire"/>
         <card number="1" name="Urborg, Tomb of Yawgmoth"/>
         <card number="1" name="Verdant Catacombs"/>
-        <card number="1" name="Vesuva"/>
-        <card number="1" name="Volrath's Stronghold"/>
         <card number="1" name="Wasteland"/>
         <card number="1" name="Windswept Heath"/>
         <card number="1" name="Wooded Foothills"/>
@@ -90,14 +58,11 @@
         <card number="1" name="Entomb"/>
         <card number="1" name="Tainted Pact"/>
         <card number="1" name="Fatal Push"/>
-        <card number="1" name="Tarmogoyf"/>
-        <card number="1" name="Scavenging Ooze"/>
-        <card number="1" name="Tectonic Edge"/>
-        <card number="1" name="Treetop Village"/>
         <card number="1" name="Summoner's Pact"/>
         <card number="1" name="Worldly Tutor"/>
         <card number="1" name="Sylvan Tutor"/>
-        <card number="1" name="Blooming Marsh"/>
+        <card number="1" name="Horn of Greed"/>
+        <card number="1" name="Dryad Arbor"/>
     </zone>
     <zone name="side">
         <card number="1" name="Dark Ritual"/>
@@ -115,5 +80,45 @@
         <card number="1" name="Reanimate"/>
         <card number="1" name="Yawgmoth's Will"/>
         <card number="1" name="Chord of Calling"/>
+        <card number="1" name="Emrakul, the Promised End"/>
+        <card number="1" name="Pernicious Deed"/>
+        <card number="1" name="Damnation"/>
+        <card number="1" name="Edge of Autumn"/>
+        <card number="1" name="Hymn to Tourach"/>
+        <card number="1" name="Phyrexian Arena"/>
+        <card number="1" name="Go for the Throat"/>
+        <card number="1" name="Liliana of the Veil"/>
+        <card number="1" name="Dark Petition"/>
+        <card number="1" name="Grim Tutor"/>
+        <card number="1" name="Maelstrom Pulse"/>
+        <card number="1" name="Regrowth"/>
+        <card number="1" name="Restore"/>
+        <card number="1" name="Expedition Map"/>
+        <card number="1" name="Abrupt Decay"/>
+        <card number="1" name="Duress"/>
+        <card number="1" name="Inquisition of Kozilek"/>
+        <card number="1" name="Thoughtseize"/>
+        <card number="1" name="Toxic Deluge"/>
+        <card number="1" name="Blighted Fen"/>
+        <card number="1" name="Blooming Marsh"/>
+        <card number="1" name="Dakmor Salvage"/>
+        <card number="1" name="Hissing Quagmire"/>
+        <card number="1" name="Homeward Path"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="2" name="Forest"/>
+        <card number="2" name="Snow-Covered Forest"/>
+        <card number="1" name="Treetop Village"/>
+        <card number="1" name="Twilight Mire"/>
+        <card number="1" name="Vesuva"/>
+        <card number="1" name="Crystal Vein"/>
+        <card number="1" name="City of Traitors"/>
+        <card number="1" name="Swamp"/>
+        <card number="1" name="Volrath's Stronghold"/>
+        <card number="1" name="Tarmogoyf"/>
+        <card number="1" name="Scavenging Ooze"/>
+        <card number="1" name="Ash Barrens"/>
+        <card number="1" name="Cabal Pit"/>
+        <card number="1" name="Tectonic Edge"/>
+        <card number="1" name="Petrified Field"/>
     </zone>
 </cockatrice_deck>

@@ -19,7 +19,6 @@
         <card number="1" name="Titania, Protector of Argoth"/>
         <card number="1" name="Verdant Catacombs"/>
         <card number="1" name="Expedition Map"/>
-        <card number="1" name="Bazaar of Baghdad"/>
         <card number="1" name="Urborg, Tomb of Yawgmoth"/>
         <card number="1" name="Custodi Lich"/>
         <card number="1" name="Breeding Pool"/>
@@ -31,7 +30,6 @@
         <card number="1" name="Volrath's Stronghold"/>
         <card number="1" name="Jace, Vryn's Prodigy"/>
         <card number="1" name="Watery Grave"/>
-        <card number="1" name="Academy Ruins"/>
         <card number="1" name="Abrupt Decay"/>
         <card number="1" name="Flooded Strand"/>
         <card number="1" name="Maze of Ith"/>
@@ -89,11 +87,9 @@
         <card number="1" name="Lotus Cobra"/>
         <card number="1" name="Realms Uncharted"/>
         <card number="1" name="Tarmogoyf"/>
-        <card number="1" name="Grim Flayer"/>
         <card number="1" name="Crystal Vein"/>
         <card number="1" name="Sylvan Library"/>
         <card number="1" name="Liliana of the Veil"/>
-        <card number="1" name="Blighted Fen"/>
         <card number="1" name="Ponder"/>
         <card number="1" name="Preordain"/>
         <card number="1" name="Gitaxian Probe"/>
@@ -103,6 +99,10 @@
         <card number="1" name="Timetwister"/>
         <card number="1" name="Deathrite Shaman"/>
         <card number="1" name="Scavenging Ooze"/>
+        <card number="1" name="Cavern of Souls"/>
+        <card number="1" name="Twilight Mire"/>
+        <card number="1" name="Yavimaya Hollow"/>
+        <card number="1" name="Splendid Reclamation"/>
     </zone>
     <zone name="side">
         <card number="1" name="Elvish Visionary"/>
@@ -144,5 +144,9 @@
         <card number="1" name="Wall of Blossoms"/>
         <card number="1" name="Coiling Oracle"/>
         <card number="1" name="Future Sight"/>
+        <card number="1" name="Bazaar of Baghdad"/>
+        <card number="1" name="Blighted Fen"/>
+        <card number="1" name="Academy Ruins"/>
+        <card number="1" name="Grim Flayer"/>
     </zone>
 </cockatrice_deck>
